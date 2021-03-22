@@ -1,6 +1,6 @@
 # Flutter with Firebase
 
-This repo consists of the implementation of all firebase features in a flutter application.
+This repo consists of the implementation of phone number authentication feature in a flutter application.
 
 ### Table of Contents
 
